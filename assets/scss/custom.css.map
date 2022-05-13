@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["supports/variables/_variables.scss","supports/helpers/_helpers.scss"],"names":[],"mappings":"AAAA;ACAA","file":"custom.css"}
+{"version":3,"sourceRoot":"","sources":["supports/variables/_variables.scss","supports/helpers/_helpers.scss","supports/_global.scss"],"names":[],"mappings":"AAAA;ACAA;ACAA","file":"custom.css"}
